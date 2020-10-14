@@ -27,7 +27,7 @@ listdoc.forEach(function(i,index){
 	Treaties[index]={'name':i.childNodes[0].innerText,'href':i.childNodes[0].href}
 })
 var AppendList=document.querySelector("#TreatyList");
-var fragment = new DocumentFragment();
+var fragment = document.createDocumentFragment();
 for(i in Treaties){
 var a=document.createElementNS('http://www.w3.org/2000/svg','a');
 var text=document.createElementNS('http://www.w3.org/2000/svg','text');
