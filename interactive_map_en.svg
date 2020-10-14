@@ -53,13 +53,13 @@
      inkscape:window-height="1377"
      id="namedview1107"
      showgrid="false"
-     inkscape:zoom="0.86184586"
-     inkscape:cx="549.43187"
-     inkscape:cy="278.01223"
+     inkscape:zoom="0.43092293"
+     inkscape:cx="1140.9195"
+     inkscape:cy="222.11122"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="TreatyList"
      showguides="true"
      inkscape:guide-bbox="true"
      units="in"
@@ -1664,7 +1664,17 @@
     </g>
     <g
        id="TreatyList"
-       style="visibility:hidden">
+       style="visibility:hidden"
+       onclick="">
+      <rect
+         style="fill:#000000;fill-opacity:0.501961;stroke:none;stroke-width:1.67788;stop-color:#000000"
+         id="rect6910"
+         width="3051.5896"
+         height="2189.4866"
+         x="-1084.8807"
+         y="-643.69043"
+         ry="0"
+         onclick="toggleList(true)" />
       <rect
          style="opacity:1;vector-effect:none;fill:#ecf8f9;fill-opacity:1;stroke:#808080;stroke-width:1.96419px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
          id="rect01234"
