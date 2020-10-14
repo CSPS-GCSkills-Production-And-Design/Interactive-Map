@@ -53,13 +53,13 @@
      inkscape:window-height="1377"
      id="namedview1107"
      showgrid="false"
-     inkscape:zoom="0.43092293"
-     inkscape:cx="1140.9195"
-     inkscape:cy="222.11122"
+     inkscape:zoom="1.7236917"
+     inkscape:cx="543.31858"
+     inkscape:cy="567.13548"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="TreatyList"
+     inkscape:current-layer="layer1"
      showguides="true"
      inkscape:guide-bbox="true"
      units="in"
@@ -1373,17 +1373,6 @@
        x="10.822411"
        y="958.21265"
        ry="9.5966282" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       x="45.53532"
-       y="981.58685"
-       id="text5776"><tspan
-         sodipodi:role="line"
-         id="tspan5774"
-         x="45.53532"
-         y="981.58685"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff">Previous</tspan></text>
     <g
        id="NavBack"
        inkscape:label="Previous"
@@ -1403,18 +1392,18 @@
          d="M 39.878654,968.24987 23.162718,978.7639 39.878654,989.67227 Z"
          id="path4352"
          sodipodi:nodetypes="cccc" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.118px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.69488"
+         x="61.938553"
+         y="987.12317"
+         id="text5776"><tspan
+           sodipodi:role="line"
+           id="tspan5774"
+           x="61.938553"
+           y="987.12317"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.118px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:1.69488">Previous</tspan></text>
     </g>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       x="201.21689"
-       y="981.56732"
-       id="text5780"><tspan
-         sodipodi:role="line"
-         id="tspan5778"
-         x="201.21689"
-         y="981.56732"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff">Next</tspan></text>
     <g
        id="NavForward"
        inkscape:label="Next"
@@ -1433,6 +1422,18 @@
          d="M 39.878654,968.24987 23.162718,978.7639 39.878654,989.67227 Z"
          id="path4352-4"
          sodipodi:nodetypes="cccc" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.118px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.69488"
+         x="-132.85065"
+         y="-970.85022"
+         id="text5780"
+         transform="scale(-1)"><tspan
+           sodipodi:role="line"
+           id="tspan5778"
+           x="-132.85065"
+           y="-970.85022"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.118px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:1.69488">Next</tspan></text>
     </g>
     <text
        xml:space="preserve"
@@ -1666,7 +1667,7 @@
     </g>
     <g
        id="TreatyList"
-       style="visibility:hidden"
+       style="display:inline;visibility:hidden"
        onclick="">
       <rect
          style="fill:#000000;fill-opacity:0.501961;stroke:none;stroke-width:1.67788;stop-color:#000000"
@@ -1686,37 +1687,41 @@
          y="15.140103"
          ry="28.402512" />
     </g>
-    <g
-       id="TreatyGroup"
-       class="svgLink"
-       onclick="toggleList()">
+    <a
+       id="a1093"
+       xlink:href="javascript:toggleList()">
       <g
-         id="g6217">
-        <rect
-           style="fill:#285f69;fill-opacity:1;stroke:none;stroke-width:1.3622;stop-color:#000000"
-           id="TreatyHeader"
-           width="606.20221"
-           height="31.009968"
-           x="5.1433458"
-           y="14.517975"
-           ry="9.3065987"
-           onclick="" />
-        <text
-           xml:space="preserve"
-           style="font-size:18.6667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';letter-spacing:0px;word-spacing:0px;fill:#ffffff"
-           x="220.72606"
-           y="35.323097"
-           id="text5869"><tspan
-             sodipodi:role="line"
-             id="tspan5867"
+         id="TreatyGroup"
+         class="svgLink"
+         onclick="">
+        <g
+           id="g6217">
+          <rect
+             style="fill:#285f69;fill-opacity:1;stroke:none;stroke-width:1.3622;stop-color:#000000"
+             id="TreatyHeader"
+             width="606.20221"
+             height="31.009968"
+             x="5.1433458"
+             y="14.517975"
+             ry="9.3065987"
+             onclick="" />
+          <text
+             xml:space="preserve"
+             style="font-size:18.6667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';letter-spacing:0px;word-spacing:0px;fill:#ffffff"
              x="220.72606"
-             y="35.323097">Modern Treaty List</tspan></text>
-        <path
-           style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.590014px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           d="m 587.85623,35.608838 9.86263,-6.20342 -9.86263,-6.43609 z"
-           id="path4352-4-9"
-           sodipodi:nodetypes="cccc" />
+             y="35.323097"
+             id="text5869"><tspan
+               sodipodi:role="line"
+               id="tspan5867"
+               x="220.72606"
+               y="35.323097">Modern Treaty List</tspan></text>
+          <path
+             style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.590014px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 587.85623,35.608838 9.86263,-6.20342 -9.86263,-6.43609 z"
+             id="path4352-4-9"
+             sodipodi:nodetypes="cccc" />
+        </g>
       </g>
-    </g>
+    </a>
   </g>
 </svg>
