@@ -92,7 +92,7 @@ function funcRef(e) {
 	}
 	changeStroke.setAttribute("fill", "#FFF");
 	changeStroke.setAttribute("stroke-width", "5px");
-	changeStroke.setAttribute("stroke", "#000");
+	changeStroke.setAttribute("stroke", "#F00");
 	oldFillColor = fillColor;
 	oldStrokeColor = strokeColor;
 	isActive = changeStroke;
