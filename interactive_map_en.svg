@@ -53,9 +53,9 @@
      inkscape:window-height="1377"
      id="namedview1107"
      showgrid="false"
-     inkscape:zoom="0.43092293"
-     inkscape:cx="3.9545124"
-     inkscape:cy="313.9994"
+     inkscape:zoom="1.2188341"
+     inkscape:cx="462.73571"
+     inkscape:cy="356.02755"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -66,6 +66,12 @@
      inkscape:document-rotation="0" />
   <defs
      id="defs965">
+    <rect
+       x="1005.0589"
+       y="866.32156"
+       width="176.39809"
+       height="132.91391"
+       id="rect2210" />
     <filter
        style="color-interpolation-filters:sRGB;"
        inkscape:label="Blur"
@@ -1357,11 +1363,12 @@
        id="rect4768"
        style="opacity:1;vector-effect:none;fill:#f9f9f9;fill-opacity:1;stroke:#000000;stroke-width:0.945819px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
        d="M -1822.5928,-755.56194 V 1588.7383 H 2009.6514 V -755.56194 Z M 50.960814,9.1221406 H 1148.1815 c 50.2752,0 52.2447,4.2178714 52.2447,51.7669344 V 971.10792 c 0,48.36948 -0.3286,51.76518 -52.2447,51.76518 H 50.960814 c -46.9932957,0 -52.2447149,-7.498 -52.2447149,-51.76518 V 60.889075 c 0,-51.6513439 3.6105068,-51.7669344 52.2447149,-51.7669344 z"
-       sodipodi:nodetypes="cccccsssssssss" />
+       sodipodi:nodetypes="cccccsssssssss"
+       sodipodi:insensitive="true" />
     <rect
        style="opacity:0.75;vector-effect:none;fill:#ecf8f9;fill-opacity:1;stroke:#808080;stroke-width:1.5407px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
        id="rect4796"
-       width="930.03632"
+       width="963.67499"
        height="154.43817"
        x="6.7441659"
        y="853.64185"
@@ -1396,12 +1403,12 @@
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.6377px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.69488"
-         x="61.938553"
+         x="65.328308"
          y="990.40259"
          id="text5776"><tspan
            sodipodi:role="line"
            id="tspan5774"
-           x="61.938553"
+           x="65.328308"
            y="990.40259"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.6377px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:1.69488">Previous</tspan></text>
     </g>
@@ -1438,65 +1445,51 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-       x="203.32301"
-       y="883.26709"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.3333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       x="129.58313"
+       y="882.73065"
        id="TreatyName"
        aria-live="polite"><tspan
          sodipodi:role="line"
          id="tspan4404"
-         x="203.32301"
-         y="883.26709">Treaty</tspan></text>
-    <rect
-       style="opacity:1;vector-effect:none;fill:#285f69;fill-opacity:1;stroke:none;stroke-width:1.61021px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
-       id="rect4790"
-       width="185.21799"
-       height="35.279617"
-       x="9.8454742"
-       y="859.75793"
-       ry="9.5966282" />
+         x="129.58313"
+         y="882.73065"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.3333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Treaty</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       x="18.750488"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="14.750488"
        y="882.73065"
        id="text4794"><tspan
          sodipodi:role="line"
          id="tspan4792"
-         x="18.750488"
+         x="14.750488"
          y="882.73065"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff">Treaty name:</tspan></text>
-    <rect
-       style="opacity:1;vector-effect:none;fill:#285f69;fill-opacity:1;stroke:none;stroke-width:1.61021px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
-       id="rect5782"
-       width="224.08804"
-       height="35.279602"
-       x="9.8454742"
-       y="907.13928"
-       ry="9.5966282" />
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">Treaty name:</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       x="17.702311"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="13.702311"
        y="930.112"
        id="text5786"><tspan
          sodipodi:role="line"
          id="tspan5784"
-         x="17.702311"
+         x="13.702311"
          y="930.112"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff">Geographical location:</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">Geographical location:</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-       x="303.323"
-       y="928.39215"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       x="210.50807"
+       y="930.21521"
        id="GeoLoc"
        aria-live="polite"
        inkscape:label="GeoLoc"><tspan
          sodipodi:role="line"
          id="tspan5788"
-         x="303.323"
-         y="928.39215">Notes</tspan></text>
+         x="210.50807"
+         y="930.21521"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Notes</tspan></text>
     <rect
        style="fill:#285f69;fill-opacity:1;stroke:none;stroke-width:1.00159;stop-color:#000000"
        id="rect5802"
@@ -1668,7 +1661,7 @@
     </g>
     <g
        id="TreatyList"
-       style="display:inline;visibility:hidden"
+       style="display:none;visibility:hidden"
        onclick="">
       <rect
          style="display:inline;fill:#000000;fill-opacity:0.501961;stroke:none;stroke-width:1.67788;stop-color:#000000"
@@ -1724,5 +1717,41 @@
         </g>
       </g>
     </a>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.3333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       x="135.58313"
+       y="900.73065"
+       id="TreatyLine2"
+       aria-live="polite"><tspan
+         sodipodi:role="line"
+         id="tspan2202"
+         x="135.58313"
+         y="900.73065"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.3333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"> </tspan></text>
+    <rect
+       style="opacity:0.75;vector-effect:none;fill:#ecf8f9;fill-opacity:1;stroke:#808080;stroke-width:0.69565px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+       id="rect2206"
+       width="195.85953"
+       height="154.91327"
+       x="993.85907"
+       y="853.4043"
+       ry="11.680583" />
+    <text
+       xml:space="preserve"
+       id="text2208"
+       style="font-size:17.3333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect2210);"><tspan
+         x="1005.0586"
+         y="882.13596"><tspan>Click on the </tspan></tspan><tspan
+         x="1005.0586"
+         y="903.80259"><tspan>pointers to zoom on </tspan></tspan><tspan
+         x="1005.0586"
+         y="925.46921"><tspan>a treaty. You may </tspan></tspan><tspan
+         x="1005.0586"
+         y="947.13584"><tspan>also navigate using </tspan></tspan><tspan
+         x="1005.0586"
+         y="968.80246"><tspan>the arrows on your </tspan></tspan><tspan
+         x="1005.0586"
+         y="990.46909"><tspan>keyboard.</tspan></tspan></text>
   </g>
 </svg>
