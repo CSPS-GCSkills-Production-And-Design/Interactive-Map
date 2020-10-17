@@ -125,7 +125,7 @@ function fitText(textSelector, ContainerSelector) {
 		DeltaX = startX - fitIn.getBBox().x,
 		numCharsLeft = longText.getNumberOfChars(),
 		charSize = textHeight/2/*Math.ceil(longText.getBoundingClientRect().width / longText.getNumberOfChars())*/,
-		maxWidth = fitIn.getBBox().width - DeltaX,
+		maxWidth = fitIn.getBoundingClientRect().width ,
 		textLength = longText.getBoundingClientRect().width,
 		numLines = Math.ceil(textLength / maxWidth),
 		maxChars = Math.floor(maxWidth / charSize),
