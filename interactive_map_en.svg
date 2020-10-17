@@ -55,7 +55,7 @@
      showgrid="false"
      inkscape:zoom="1.2188341"
      inkscape:cx="462.73571"
-     inkscape:cy="356.02755"
+     inkscape:cy="378.49676"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -1202,6 +1202,14 @@
      inkscape:label="Navigation"
      style="display:inline"
      transform="translate(0,-324)">
+    <rect
+       style="opacity:0.75;vector-effect:none;fill:#ecf8f9;fill-opacity:1;stroke:#808080;stroke-width:0.69565px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+       id="rect2206"
+       width="195.85953"
+       height="154.91327"
+       x="993.85907"
+       y="853.4043"
+       ry="11.680583" />
     <path
        id="rect4768-0"
        style="display:inline;opacity:0.5;vector-effect:none;fill:#6f8a91;fill-opacity:1;stroke:none;stroke-width:0.945819px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter4511);stop-color:#000000;stop-opacity:1"
@@ -1366,13 +1374,13 @@
        sodipodi:nodetypes="cccccsssssssss"
        sodipodi:insensitive="true" />
     <rect
-       style="opacity:0.75;vector-effect:none;fill:#ecf8f9;fill-opacity:1;stroke:#808080;stroke-width:1.5407px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
-       id="rect4796"
-       width="963.67499"
-       height="154.43817"
-       x="6.7441659"
-       y="853.64185"
-       ry="11.64476" />
+       style="opacity:0.75;vector-effect:none;fill:#ecf8f9;fill-opacity:1;stroke:#808080;stroke-width:1.145px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+       id="BottomRectangle"
+       width="530.86975"
+       height="154.83389"
+       x="6.5463123"
+       y="853.44391"
+       ry="11.6746" />
     <rect
        style="display:inline;opacity:1;vector-effect:none;fill:#285f69;fill-opacity:1;stroke:none;stroke-width:1.92623px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
        id="rect4790-4"
@@ -1446,15 +1454,15 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.3333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-       x="129.58313"
+       x="121.653"
        y="882.73065"
        id="TreatyName"
        aria-live="polite"><tspan
          sodipodi:role="line"
-         id="tspan4404"
-         x="129.58313"
+         x="121.653"
          y="882.73065"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.3333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Treaty</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.3333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         id="tspan2214">Treaty</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
@@ -1470,25 +1478,25 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        x="13.702311"
-       y="930.112"
+       y="946.112"
        id="text5786"><tspan
          sodipodi:role="line"
          id="tspan5784"
          x="13.702311"
-         y="930.112"
+         y="946.112"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">Geographical location:</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        x="210.50807"
-       y="930.21521"
+       y="946.21521"
        id="GeoLoc"
        aria-live="polite"
        inkscape:label="GeoLoc"><tspan
          sodipodi:role="line"
          id="tspan5788"
          x="210.50807"
-         y="930.21521"
+         y="946.21521"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Notes</tspan></text>
     <rect
        style="fill:#285f69;fill-opacity:1;stroke:none;stroke-width:1.00159;stop-color:#000000"
@@ -1729,14 +1737,6 @@
          x="135.58313"
          y="900.73065"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.3333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"> </tspan></text>
-    <rect
-       style="opacity:0.75;vector-effect:none;fill:#ecf8f9;fill-opacity:1;stroke:#808080;stroke-width:0.69565px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
-       id="rect2206"
-       width="195.85953"
-       height="154.91327"
-       x="993.85907"
-       y="853.4043"
-       ry="11.680583" />
     <text
        xml:space="preserve"
        id="text2208"
