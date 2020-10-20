@@ -132,11 +132,7 @@ function fitText(textSelector, ContainerSelector) {
 		wholeText = longText.textContent,
 		nextLine = wholeText;
 
-	console.log("Lines " + numLines);
-	console.log("maxChars " + maxChars);
-	console.log("numCharsLeft " + numCharsLeft);
 	if(numCharsLeft>maxChars){numLines++}
-	// console.log(textHeight);
 	if (numLines > 1) {
 		for (var i = 1; i <= numLines; i++) {
 			var toKeep = (nextLine.length - maxChars) % maxChars
@@ -146,14 +142,13 @@ function fitText(textSelector, ContainerSelector) {
 				var lastSpaceBeforeCut = nextLine.substr(0, toKeep).lastIndexOf(" ")
 			}
 			if (lastSpaceBeforeCut == -1) {
-				lastSpaceBeforeCut = nextLine.substr(0, toKeep)
+				lastSpaceBeforeCut = nextLine.substring(0, toKeep)
 			}
-			var adjustedText = nextLine.substr(0, lastSpaceBeforeCut+1)
+			var adjustedText = nextLine.substring(0, lastSpaceBeforeCut+1)
 			numCharsLeft = numCharsLeft - adjustedText.length
-			console.log("Left: " + numCharsLeft)
 			toChange = longText.querySelector(":nth-child(" + (i) + ")")
 			toChange.textContent = adjustedText
-			nextLine = nextLine.substr(lastSpaceBeforeCut ),
+			nextLine = nextLine.substring(lastSpaceBeforeCut ),
 				lineUnder = document.createElementNS('http://www.w3.org/2000/svg', 'tspan')
 			lineUnder.textContent = nextLine
 			lineUnder.setAttribute("x", startX)
